@@ -1,3 +1,7 @@
+## <small>0.0.7 (2021-06-05)</small>
+
+* chore(release-it): update releaseit config ([ae981e1](https://github.com/sonar-watch/collectibles-list/commit/ae981e1))
+
 ## <small>0.0.6 (2021-06-05)</small>
 
 * chore(release-it): update release it config ([8e2a067](https://github.com/sonar-watch/collectibles-list/commit/8e2a067))
