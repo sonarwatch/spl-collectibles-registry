@@ -1,74 +1,122 @@
 {
-    "platforms": 
-    [
-        {
-            "id": "community",
-            "name": "Community",
-            "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
-            "website": "https://solana.com/",
-            "description": "Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption."
-        },
-        {
-            "id": "orca",
-            "name": "Orca",
-            "logoURI": "https://learn.orca.so/static/media/logomark.1ef55f8f.svg",
-            "website": "https://www.orca.so/",
-            "description": "Orca is the easiest place to exchange cryptocurrency on Solana."
-        },
-        {
-            "id": "solPunks",
-            "name": "SolPunks",
-            "logoURI": "https://solpunks.com/wp-content/uploads/2021/05/unknown_2.png",
-            "website": "https://solpunks.com/",
-            "description": "SolPunks are NFTs on the Solana blockchain. Each of these 10,000 SolPunks has attributes that make them unique according to a defined rarity system."
-        }
-    ],
-    "collectibles": 
-    [
-        {
-            "platformId": "orca",
-            "address": "guppyrZyEX9iTPSu92pi8T71Zka7xd6PrsTJrXRW6u1",
-            "contentURI": "/logos/collectibles/orca/GUPPY.gif",
-            "name": "Guppy",
-            "decimals": 0,
-            "supply": null,
-            "market": null
-        },
-        {
-            "platformId": "orca",
-            "address": "whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW",
-            "contentURI": "/logos/collectibles/orca/WHALE.gif",
-            "name": "Whale",
-            "decimals": 0,
-            "supply": null,
-            "market": null
-        },
-        {
-            "platformId": "orca",
-            "address": "kLwhLkZRt6CadPHRBsgfhRCKXX426WMBnhoGozTduvk",
-            "contentURI": "/logos/collectibles/orca/KILLER_WHALE.gif",
-            "name": "Killer whale",
-            "decimals": 0,
-            "supply": null,
-            "market": null
-        },
-        {
-            "platformId": "orca",
-            "address": "star2pH7rVWscs743JGdCAL8Lc9nyJeqx7YQXkGUnWf",
-            "contentURI": "/logos/collectibles/orca/STARFISH.gif",
-            "name": "Starfish",
-            "decimals": 6,
-            "supply": null,
-            "market": null
-        },
-        {
-            "platformId": "orca",
-            "address": "cLownTTaiiQMoyMmFjfmSGowi8HyNhCtTLFcrNKnqX6",
-            "contentURI": "/logos/collectibles/orca/CLOWNFISH.gif",
-            "name": "Clownfish",
-            "decimals": 0,
-            "supply": null,
-            "market": null
-        }
-    ]
+  "platforms": [
+    {
+      "id": "community",
+      "name": "Community",
+      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+      "website": "https://solana.com/",
+      "description": "Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption."
+    },
+    {
+      "id": "orca",
+      "name": "Orca",
+      "logoURI": "https://learn.orca.so/static/media/logomark.1ef55f8f.svg",
+      "website": "https://www.orca.so/",
+      "description": "Orca is the easiest place to exchange cryptocurrency on Solana."
+    },
+    {
+      "id": "solPunks",
+      "name": "SolPunks",
+      "logoURI": "https://solpunks.com/wp-content/uploads/2021/05/unknown_2.png",
+      "website": "https://solpunks.com/",
+      "description": "SolPunks are NFTs on the Solana blockchain. Each of these 10,000 SolPunks has attributes that make them unique according to a defined rarity system."
+    },
+    {
+      "id": "solPunks",
+      "name": "SolPunks",
+      "logoURI": "https://solpunks.com/wp-content/uploads/2021/05/unknown_2.png",
+      "website": "https://solpunks.com/",
+      "description": "SolPunks are NFTs on the Solana blockchain. Each of these 10,000 SolPunks has attributes that make them unique according to a defined rarity system."
+    },
+    {
+      "id": "smb",
+      "name": "Solana Monkey Business",
+      "logoURI": "https://pbs.twimg.com/profile_images/1400877156729864198/93klshYG_400x400.png",
+      "website": null,
+      "description": null
+    }
+  ],
+  "collectibles": [
+    {
+      "platformId": "orca",
+      "address": "guppyrZyEX9iTPSu92pi8T71Zka7xd6PrsTJrXRW6u1",
+      "contentURI": "/logos/collectibles/orca/GUPPY.gif",
+      "name": "Guppy",
+      "decimals": 0,
+      "supply": null,
+      "serumV3Usdc": null
+    },
+    {
+      "platformId": "orca",
+      "address": "whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW",
+      "contentURI": "/logos/collectibles/orca/WHALE.gif",
+      "name": "Whale",
+      "decimals": 0,
+      "supply": null,
+      "serumV3Usdc": null
+    },
+    {
+      "platformId": "orca",
+      "address": "kLwhLkZRt6CadPHRBsgfhRCKXX426WMBnhoGozTduvk",
+      "contentURI": "/logos/collectibles/orca/KILLER_WHALE.gif",
+      "name": "Killer whale",
+      "decimals": 0,
+      "supply": null,
+      "serumV3Usdc": null
+    },
+    {
+      "platformId": "orca",
+      "address": "star2pH7rVWscs743JGdCAL8Lc9nyJeqx7YQXkGUnWf",
+      "contentURI": "/logos/collectibles/orca/STARFISH.gif",
+      "name": "Starfish",
+      "decimals": 6,
+      "supply": null,
+      "serumV3Usdc": null
+    },
+    {
+      "platformId": "orca",
+      "address": "cLownTTaiiQMoyMmFjfmSGowi8HyNhCtTLFcrNKnqX6",
+      "contentURI": "/logos/collectibles/orca/CLOWNFISH.gif",
+      "name": "Clownfish",
+      "decimals": 0,
+      "supply": null,
+      "serumV3Usdc": null
+    },
+    {
+      "platformId": "smb",
+      "address": "3CD152rnQSRN2moGAgNz89c2UoTpvH1fQbp7xiAukegA",
+      "contentURI": "/logos/collectibles/smb/MONKANICIAN.png",
+      "name": "Monkanician",
+      "decimals": 0,
+      "supply": 2500,
+      "serumV3Usdc": "DEVrNDFuQj3XKv7NJYWSsTD6ULeB5DbhXaEgWkNNB8in"
+    },
+    {
+      "platformId": "smb",
+      "address": "Dv6LsiXqzkWbLmFbEerEKW6bpFgUkxTSt5yQh52vKDU6",
+      "contentURI": "/logos/collectibles/smb/ASTRO.png",
+      "name": "Space Monkey",
+      "decimals": 0,
+      "supply": 1000,
+      "serumV3Usdc": "eaJvX7XxQ2e7GKGw1QVLaj3zn4ZvbCV3GPcg2qPzmat"
+    },
+    {
+      "platformId": "smb",
+      "address": "FdK2JCp3VntLyT8f3yTHM4yProJZoRxRVPpu9zQaX3LW",
+      "contentURI": "/logos/collectibles/smb/MONKHOS.png",
+      "name": "Monkos",
+      "decimals": 0,
+      "supply": 200,
+      "serumV3Usdc": "AmErrWcaPzD7hjHhreRfRBW2jNGRPKE1GiLGvAh8JXuV"
+    },
+    {
+      "platformId": "smb",
+      "address": "DYArg6Qvs3zvX3oUAJpJ2s17iAYcPviNR435DqzHNTAM",
+      "contentURI": "/logos/collectibles/smb/ALIEN.png",
+      "name": "Monkalien",
+      "decimals": 0,
+      "supply": 50,
+      "serumV3Usdc": "26SRwFNGkXA2m3SkHo53yVFdYDPkGFCLkRwmr2vnH5ga"
+    }
+  ]
 }
