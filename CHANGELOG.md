@@ -1,3 +1,7 @@
+## <small>0.0.9 (2021-06-05)</small>
+
+* feat(collectibles): add Star Atlas collectibles ([10d7c6a](https://github.com/sonar-watch/collectibles-list/commit/10d7c6a))
+
 ## <small>0.0.8 (2021-06-05)</small>
 
 * fix(collectibles): fix contentURI of collectibles ([ee9dca4](https://github.com/sonar-watch/collectibles-list/commit/ee9dca4))
