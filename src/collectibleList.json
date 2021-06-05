@@ -40,7 +40,7 @@
     {
       "platformId": "orca",
       "address": "guppyrZyEX9iTPSu92pi8T71Zka7xd6PrsTJrXRW6u1",
-      "contentURI": "/logos/collectibles/orca/GUPPY.gif",
+      "contentURI": "https://sonar.watch/logos/collectibles/orca/GUPPY.gif",
       "name": "Guppy",
       "decimals": 0,
       "supply": null,
@@ -49,7 +49,7 @@
     {
       "platformId": "orca",
       "address": "whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW",
-      "contentURI": "/logos/collectibles/orca/WHALE.gif",
+      "contentURI": "https://sonar.watch/logos/collectibles/orca/WHALE.gif",
       "name": "Whale",
       "decimals": 0,
       "supply": null,
@@ -58,7 +58,7 @@
     {
       "platformId": "orca",
       "address": "kLwhLkZRt6CadPHRBsgfhRCKXX426WMBnhoGozTduvk",
-      "contentURI": "/logos/collectibles/orca/KILLER_WHALE.gif",
+      "contentURI": "https://sonar.watch/logos/collectibles/orca/KILLER_WHALE.gif",
       "name": "Killer whale",
       "decimals": 0,
       "supply": null,
@@ -67,7 +67,7 @@
     {
       "platformId": "orca",
       "address": "star2pH7rVWscs743JGdCAL8Lc9nyJeqx7YQXkGUnWf",
-      "contentURI": "/logos/collectibles/orca/STARFISH.gif",
+      "contentURI": "https://sonar.watch/logos/collectibles/orca/STARFISH.gif",
       "name": "Starfish",
       "decimals": 6,
       "supply": null,
@@ -76,7 +76,7 @@
     {
       "platformId": "orca",
       "address": "cLownTTaiiQMoyMmFjfmSGowi8HyNhCtTLFcrNKnqX6",
-      "contentURI": "/logos/collectibles/orca/CLOWNFISH.gif",
+      "contentURI": "https://sonar.watch/logos/collectibles/orca/CLOWNFISH.gif",
       "name": "Clownfish",
       "decimals": 0,
       "supply": null,
@@ -85,7 +85,7 @@
     {
       "platformId": "smb",
       "address": "3CD152rnQSRN2moGAgNz89c2UoTpvH1fQbp7xiAukegA",
-      "contentURI": "/logos/collectibles/smb/MONKANICIAN.png",
+      "contentURI": "https://sonar.watch/logos/collectibles/smb/MONKANICIAN.png",
       "name": "Monkanician",
       "decimals": 0,
       "supply": 2500,
@@ -94,7 +94,7 @@
     {
       "platformId": "smb",
       "address": "Dv6LsiXqzkWbLmFbEerEKW6bpFgUkxTSt5yQh52vKDU6",
-      "contentURI": "/logos/collectibles/smb/ASTRO.png",
+      "contentURI": "https://sonar.watch/logos/collectibles/smb/ASTRO.png",
       "name": "Space Monkey",
       "decimals": 0,
       "supply": 1000,
@@ -103,7 +103,7 @@
     {
       "platformId": "smb",
       "address": "FdK2JCp3VntLyT8f3yTHM4yProJZoRxRVPpu9zQaX3LW",
-      "contentURI": "/logos/collectibles/smb/MONKHOS.png",
+      "contentURI": "https://sonar.watch/logos/collectibles/smb/MONKHOS.png",
       "name": "Monkos",
       "decimals": 0,
       "supply": 200,
@@ -112,7 +112,7 @@
     {
       "platformId": "smb",
       "address": "DYArg6Qvs3zvX3oUAJpJ2s17iAYcPviNR435DqzHNTAM",
-      "contentURI": "/logos/collectibles/smb/ALIEN.png",
+      "contentURI": "https://sonar.watch/logos/collectibles/smb/ALIEN.png",
       "name": "Monkalien",
       "decimals": 0,
       "supply": 50,
