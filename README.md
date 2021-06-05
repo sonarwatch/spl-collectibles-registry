@@ -1,4 +1,4 @@
-# @sonar/spl-collectibles-registry
+# @sonar-watch/spl-collectibles-registry
 
 [![GitHub license](https://img.shields.io/badge/license-APACHE-blue.svg)](https://github.com/sonar-watch/collectibles-list/blob/main/LICENSE)
 
