@@ -1,3 +1,10 @@
+## <small>0.0.3 (2021-06-05)</small>
+
+* fix ([c49a064](https://github.com/sonar-watch/collectibles-list/commit/c49a064))
+* fix ([56975ec](https://github.com/sonar-watch/collectibles-list/commit/56975ec))
+* fix: quick fix ([ef6f26e](https://github.com/sonar-watch/collectibles-list/commit/ef6f26e))
+* fix(gitignore): update gitignore ([99bad87](https://github.com/sonar-watch/collectibles-list/commit/99bad87))
+
 ## <small>0.0.2 (2021-06-05)</small>
 
 * fix ([1630239](https://github.com/sonar-watch/collectibles-list/commit/1630239))
