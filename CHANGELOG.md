@@ -1,3 +1,9 @@
+## <small>0.0.4 (2021-06-05)</small>
+
+* feat(platforms): add SolPunks paltform ([b820419](https://github.com/sonar-watch/collectibles-list/commit/b820419))
+* fix ([404d3fe](https://github.com/sonar-watch/collectibles-list/commit/404d3fe))
+* chore: add build hooks ([762cf20](https://github.com/sonar-watch/collectibles-list/commit/762cf20))
+
 ## <small>0.0.3 (2021-06-05)</small>
 
 * fix ([c49a064](https://github.com/sonar-watch/collectibles-list/commit/c49a064))

@@ -16,6 +16,13 @@ var platforms$1 = [
 		logoURI: "https://learn.orca.so/static/media/logomark.1ef55f8f.svg",
 		website: "https://www.orca.so/",
 		description: "Orca is the easiest place to exchange cryptocurrency on Solana."
+	},
+	{
+		id: "solPunks",
+		name: "SolPunks",
+		logoURI: "https://solpunks.com/wp-content/uploads/2021/05/unknown_2.png",
+		website: "https://solpunks.com/",
+		description: "SolPunks are NFTs on the Solana blockchain. Each of these 10,000 SolPunks has attributes that make them unique according to a defined rarity system."
 	}
 ];
 var collectibles$1 = [
