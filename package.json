@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sonar-watch/collectibles-list.git"
+    "url": "git+https://github.com/sonar-watch/spl-collectibles-registry.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sonar-watch/collectibles-list/issues"
+    "url": "https://github.com/sonar-watch/spl-collectibles-registry/issues"
   },
-  "homepage": "https://github.com/sonar-watch/collectibles-list#readme",
+  "homepage": "https://github.com/sonar-watch/spl-collectibles-registry#readme",
   "devDependencies": {
     "@release-it/conventional-changelog": "^2.0.1",
     "@rollup/plugin-json": "^4.1.0",
