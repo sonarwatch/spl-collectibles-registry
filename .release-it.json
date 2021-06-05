@@ -8,6 +8,10 @@
   "npm": {
     "publish": true
   },
+  "hooks": {
+    "before:init": ["npm run lint", "npm test"],
+    "after:bump": "npm run build"
+  },
   "plugins": {
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOG.md"
