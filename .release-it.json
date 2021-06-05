@@ -9,7 +9,7 @@
     "publish": true
   },
   "hooks": {
-    "before:init": ["npm run lint", "npm test"],
+    "before:init": [],
     "after:bump": "npm run build"
   },
   "plugins": {
