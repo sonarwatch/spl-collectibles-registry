@@ -10,12 +10,9 @@
     "test": "mocha -r ts-node/register tests/**/*.test.ts",
     "test:watch": "mocha -r ts-node/register tests/**/*.test.ts --watch",
     "lint": "eslint src/**/* --fix",
-    "build": "rollup -c",
-    "deploy": "rm -rf dist && rollup -c && tsc --emitDeclarationOnly",
-    "prepublish:public": "npm run deploy && npm run bump-version",
-    "publish:public": "npm publish --access public",
+    "build": "rm -rf dist && rollup -c && tsc --emitDeclarationOnly",
     "dev": "rollup -c -w",
-    "release": "release-it"
+    "release": "dotenv release-it --"
   },
   "repository": {
     "type": "git",
@@ -37,6 +34,7 @@
     "@typescript-eslint/eslint-plugin": "^4.26.0",
     "@typescript-eslint/parser": "^4.26.0",
     "chai": "^4.3.4",
+    "dotenv-cli": "^4.0.0",
     "eslint": "^7.28.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.23.4",
