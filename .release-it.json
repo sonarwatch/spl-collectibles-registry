@@ -9,8 +9,8 @@
     "publish": true
   },
   "hooks": {
-    "before:init": [],
-    "after:bump": "npm run build"
+    "before:init": ["npm run lint"],
+    "after:bump": ["npm run build", "npm run test"]
   },
   "plugins": {
     "@release-it/conventional-changelog": {
