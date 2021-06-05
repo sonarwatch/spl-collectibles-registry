@@ -8,9 +8,6 @@
   "npm": {
     "publish": false
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "plugins": {
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOG.md"
