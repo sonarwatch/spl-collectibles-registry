@@ -34,6 +34,13 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1400877156729864198/93klshYG_400x400.png",
       "website": null,
       "description": null
+    },
+    {
+      "id": "star_atlas",
+      "name": "Star Atlas",
+      "logoURI": "https://sonar.watch/platforms/star_atlas.png",
+      "website": null,
+      "description": null
     }
   ],
   "collectibles": [
@@ -117,6 +124,60 @@
       "decimals": 0,
       "supply": 50,
       "serumV3Usdc": "26SRwFNGkXA2m3SkHo53yVFdYDPkGFCLkRwmr2vnH5ga"
+    },
+    {
+      "platformId": "star_atlas",
+      "address": "HAWy8kV3bD4gaN6yy6iK2619x2dyzLUBj1PfJiihTisE",
+      "supply": 1000000,
+      "decimals": 0,
+      "serumV3Usdc": "AYXTVttPfhYmn3jryX5XbRjwPK2m9445mbN2iLyRD6nq",
+      "contentURI": "https://sonar.watch/logos/collectibles/star_atlas/poster_1.jpg",
+      "name": "Discovery of Iris"
+    },
+    {
+      "platformId": "star_atlas",
+      "address": "ATSPo9f9TJ3Atx8SuoTYdzSMh4ctQBzYzDiNukQDmoF7",
+      "supply": 1000000,
+      "decimals": 0,
+      "serumV3Usdc": "5Erzgrw9pTjNWLeqHp2sChJq7smB7WXRQYw9wvkvA59t",
+      "contentURI": "https://sonar.watch/logos/collectibles/star_atlas/poster_2.jpg",
+      "name": "The Heart of Star Atlas"
+    },
+    {
+      "platformId": "star_atlas",
+      "address": "36s6AFRXzE9KVdUyoJQ5y6mwxXw21LawYqqwNiQUMD8s",
+      "supply": 1000000,
+      "decimals": 0,
+      "serumV3Usdc": "DXPv2ZyMD6Y2mDenqYkAhkvGSjNahkuMkm4zv6DqB7RF",
+      "contentURI": "https://sonar.watch/logos/collectibles/star_atlas/poster_3.jpg",
+      "name": "The Convergence War"
+    },
+    {
+      "platformId": "star_atlas",
+      "address": "BgiTVxW9uLuHHoafTd2qjYB5xjCc5Y1EnUuYNfmTwhvp",
+      "supply": 1000000,
+      "decimals": 0,
+      "serumV3Usdc": "73d9N7BbWVKBG6A2xwwwEHcxzPB26YzbMnRjue3DPzqs",
+      "contentURI": "https://sonar.watch/logos/collectibles/star_atlas/poster_4.jpg",
+      "name": "Short Story Of a Lost Astronaut"
+    },
+    {
+      "platformId": "star_atlas",
+      "address": "4G85c5aUsRTrRPqE5VjY7ebD9b2ktTF6NEVGiCddRBDX",
+      "supply": 1000000,
+      "decimals": 0,
+      "serumV3Usdc": "AM9sNDh48N2qhYSgpA58m9dHvrMoQongtyYu2u2XoYTc",
+      "contentURI": "https://sonar.watch/logos/collectibles/star_atlas/poster_5.jpg",
+      "name": "B ❤ P"
+    },
+    {
+      "platformId": "star_atlas",
+      "address": "7dr7jVyXf1KUnYq5FTpV2vCZjKRR4MV94jzerb8Fi16Q",
+      "supply": 1000000,
+      "decimals": 0,
+      "serumV3Usdc": "BJiV2gCLwMvj2c1CbhnMjjy68RjqoMzYT8brDrpVyceA",
+      "contentURI": "https://sonar.watch/logos/collectibles/star_atlas/poster_6.jpg",
+      "name": "The Assassination of Paizul"
     }
   ]
 }
