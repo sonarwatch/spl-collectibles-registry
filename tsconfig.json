@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "declarationDir": "dist/types",
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "exclude": ["dist", "node_modules"],
+    
+}

@@ -1,0 +1,53 @@
+{
+  "name": "@sonar-watch/spl-collectibles-registry",
+  "version": "0.0.1",
+  "private": false,
+  "description": "SPL Collectibles Registry",
+  "main": "dist/collectiblelist.cjs.js",
+  "module": "dist/collectiblelist.esm.js",
+  "browser": "dist/collectiblelist.umd.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register tests/**/*.test.ts",
+    "test:watch": "mocha -r ts-node/register tests/**/*.test.ts --watch",
+    "lint": "eslint src/**/* --fix",
+    "build": "rollup -c",
+    "deploy": "rm -rf dist && rollup -c && tsc --emitDeclarationOnly",
+    "prepublish:public": "npm run deploy && npm run bump-version",
+    "publish:public": "npm publish --access public",
+    "dev": "rollup -c -w",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonar-watch/collectibles-list.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sonar-watch/collectibles-list/issues"
+  },
+  "homepage": "https://github.com/sonar-watch/collectibles-list#readme",
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-typescript": "^8.2.1",
+    "@types/chai": "^4.2.18",
+    "@types/mocha": "^8.2.2",
+    "@types/node": "^15.12.1",
+    "@typescript-eslint/eslint-plugin": "^4.26.0",
+    "@typescript-eslint/parser": "^4.26.0",
+    "chai": "^4.3.4",
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "mocha": "^8.4.0",
+    "release-it": "^14.7.0",
+    "rollup": "^2.50.6",
+    "ts-node": "^10.0.0",
+    "tslib": "^2.2.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {},
+  "files": [
+    "dist"
+  ]
+}
