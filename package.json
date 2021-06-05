@@ -1,6 +1,6 @@
 {
   "name": "@sonar-watch/spl-collectibles-registry",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": false,
   "description": "SPL Collectibles Registry",
   "main": "dist/spl-collectibles-registry.cjs.js",
